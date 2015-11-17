@@ -1,2 +1,2 @@
 # SPOJ-BRASIL
-Repositório das soluções dos problemas do site "http://br.spoj.com"
+Repositório das soluções dos problemas do site <a href="http://br.spoj.com">SPOJ</a>
